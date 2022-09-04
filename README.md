@@ -4,7 +4,7 @@
 
 ### Introduction
 
-In the project, the aim is to create an application that predicts car license plates by using OCR models on FastApi. The notebook includes all findings and results from the app.
+In the project, the aim is creating an application that predicts car license plates by using OCR models on FastApi. The notebook includes all findings and results from the app.
 
 The Swagger UI has three parameters which are model_selection(dropdown selection), steps viewing options(dropdown selection), and upload image parameter.
 
